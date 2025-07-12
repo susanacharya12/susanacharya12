@@ -21,8 +21,7 @@
 -  SQLite3, MySQL, PostgreSQL, MongoDB
 
 ###  Tools & IDEs
--  Git & GitHub  
--  Postman  
+-  Git & GitHub   
 -  VS Code, PyCharm  
 
 
@@ -57,7 +56,7 @@
 
 ##  Let's Connect
 
--  Email: **susanacharya.cs@gmail.com** *(example)*  
+-  Email: **susanacharya.sp@gmail.com** *(example)*  
 -  LinkedIn: [linkedin.com/in/susan-acharya1618](https://www.linkedin.com/in/susan-acharya1618)  
 -  Location: Kathmandu, Nepal
 
