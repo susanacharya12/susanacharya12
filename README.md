@@ -45,7 +45,7 @@
 ##  Featured Projects
 
 ###  [Django E-Commerce Site](https://github.com/susanacharya12/django-ecommerce)
-- Full e-commerce website with multilingual support (English & Nepali)
+- Full e-commerce website with multilingual support 
 - Category filtering, product images, admin dashboard, and payment simulation
 
 ###  [Student Management System](https://github.com/susanacharya12/student-management-system)
