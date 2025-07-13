@@ -35,11 +35,9 @@
 
 
 ## 📄 Certificates
-
--  Python for Everybody – University of Michigan (Coursera)  
--  Django for Everybody Specialization – University of Michigan (Coursera) *(in progress)*  
--  Web Development Essentials – APIA College  
--  JavaScript Essentials – FreeCodeCamp *(in progress)*
+ 
+-  Web Development Essentials – APNA College  
+-  JavaScript Essentials – FreeCodeCamp 
 
 
 ##  Featured Projects
