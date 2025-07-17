@@ -18,7 +18,7 @@
 -  RESTful API design & development
 
 ###  Databases
--  SQLite3, MySQL, PostgreSQL, MongoDB
+-  SQLite3, MySQL
 
 ###  Tools & IDEs
 -  Git & GitHub   
@@ -37,7 +37,7 @@
 ## 📄 Certificates
  
 -  Web Development Essentials – APNA College  
--  JavaScript Essentials – FreeCodeCamp 
+-  Python For Beginners
 
 
 ##  Featured Projects
