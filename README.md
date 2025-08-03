@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Susan Acharya (susanacharya12)
+# 👋 Hi there, I'm Susan Acharya 
 
  **Computer Science Student**  
  Passionate about Backend development and solving real-world problems  
