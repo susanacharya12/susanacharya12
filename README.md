@@ -36,7 +36,7 @@
 
 ##  Let's Connect
 
--  Email: **susanacharya.sp@gmail.com** *(example)*  
+-  Email: **susanacharya.sp@gmail.com** 
 -  LinkedIn: [linkedin.com/in/susan-acharya1618](https://www.linkedin.com/in/susan-acharya1618)  
 -  Location: Kathmandu, Nepal
 
