@@ -34,30 +34,11 @@
 - Adaptability
 
 
-## 📄 Certificates
- 
--  Web Development Essentials – APNA College  
--  Python For Beginners
-
-
-##  Featured Projects
-
-###  [Django E-Commerce Site](https://github.com/susanacharya12/django-ecommerce)
-- Full e-commerce website with multilingual support 
-- Category filtering, product images, admin dashboard, and payment simulation
-
-###  [Student Management System](https://github.com/susanacharya12/student-management-system)
-- CRUD system to manage students
-- Built with Django, Bootstrap, and SQLite
-
-
-
 ##  Let's Connect
 
 -  Email: **susanacharya.sp@gmail.com** *(example)*  
 -  LinkedIn: [linkedin.com/in/susan-acharya1618](https://www.linkedin.com/in/susan-acharya1618)  
 -  Location: Kathmandu, Nepal
-
 
 
 ##  GitHub Stats
